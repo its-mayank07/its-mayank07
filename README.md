@@ -1,7 +1,3 @@
-Here’s an improved and polished version of your **GitHub README** — it keeps your original voice but adds more clarity, structure, and professional tone while still being energetic and developer-friendly:
-
----
-
 # 💫 About Me
 
 Hey there! 👋 I’m **Mayank**, a passionate **Full-Stack Developer** who loves crafting scalable, high-performance web applications. I specialize in building modern, production-ready solutions using the latest technologies. My focus is on writing clean, efficient code and solving real-world problems through tech. 🚀
