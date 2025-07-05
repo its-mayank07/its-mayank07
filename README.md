@@ -58,9 +58,7 @@ A productivity-focused task manager built with **JavaScript**. Simple yet powerf
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square\&logo=twitter\&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF6B6B?style=flat-square\&logo=portfolio\&logoColor=white)](your-portfolio-url)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mayank-maini-9947a0303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
