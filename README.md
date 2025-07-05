@@ -66,4 +66,3 @@ A productivity-focused task manager built with **JavaScript**. Simple yet powerf
 
 ---
 
-Let me know if you'd like a **dark mode version**, markdown preview image, or a **one-liner bio** for your portfolio!
